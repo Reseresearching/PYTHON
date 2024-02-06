@@ -11,7 +11,22 @@ There are two types of synchronization and they can complement each other:
 	> To start syncing your workspace, just sign in with Google in the menu.
 
 - The file synchronization will keep one file of the workspace synced with one or multiple files in **Google Drive**, **Dropbox** or **GitHub**.
-- 
+
+
+
+
+
+
+```
+x=12
+while x<10:
+  x=x+1
+  if x==5:
+    print("x es 5")
+  print(x)
+else:
+  print("else")
+```
 ## Publish a File
 
 You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
