@@ -1,5 +1,5 @@
 # PYTHON  with markdown
-<img title="a title" alt="Alt text" src="/images/g.jpg">
+<img title="a title" alt="Alt text" src="/images/g.jpeg">
  
 # Synchronization
 
